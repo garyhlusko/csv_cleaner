@@ -19,7 +19,7 @@ class Csvcleaner():
 		if required == None:
 			required = []
 		if name == None:
-			name - []
+			name = []
 		if addresses == None:
 			addresses = []
 		if address_join == None:
